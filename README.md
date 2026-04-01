@@ -92,7 +92,7 @@ jupyter notebook notebooks/UPI_Fraud_Detection.ipynb
 ```
 
 ### 4. View the dashboard
-Open `dashboard/fraud_dashboard.html` in any browser — no server needed.
+Open `file:///C:/Users/Bhavya/Desktop/DATA%20ANALYTICS/PROJECTS/files/fraud_dashboard.html` in any browser — no server needed.
 
 ---
 
