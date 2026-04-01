@@ -64,6 +64,7 @@ upi_fraud_detection/
 ---
 
 ## ⚙️ Quick Start
+## Note: CSV data files and trained model files are not committed due to size. Run generate_data.py → feature_engineering.py → train_model.py in sequence to reproduce all outputs.
 
 ### 1. Install dependencies
 ```bash
