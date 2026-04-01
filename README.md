@@ -92,7 +92,7 @@ jupyter notebook notebooks/UPI_Fraud_Detection.ipynb
 ```
 
 ### 4. View the dashboard
-Open 'C:\Users\Bhavya\Desktop\DATA ANALYTICS\PROJECTS\files\fraud_dashboard.html' in any browser — no server needed.
+Open 'file:///C:/Users/Bhavya/Desktop/DATA%20ANALYTICS/PROJECTS/files/fraud_dashboard.html' in any browser — no server needed.
 
 ---
 
@@ -158,7 +158,7 @@ Located in `sql/fraud_analytics.sql` — designed to run on top of `scored_trans
 ## Dashboard Preview
 ![UPI Fraud Risk Dashboard](assets/dashboard_screenshot.png)
 
-The interactive HTML dashboard ('C:\Users\Bhavya\Desktop\DATA ANALYTICS\PROJECTS\files\fraud_dashboard.html') replicates a Power BI analyst view:
+The interactive HTML dashboard ('file:///C:/Users/Bhavya/Desktop/DATA%20ANALYTICS/PROJECTS/files/fraud_dashboard.html') replicates a Power BI analyst view:
 
 **KPI Cards**
 - Fraud Rate % · Flagged Volume · Avg Fraud Ticket Size · Model AUC-ROC · Fraud Precision
