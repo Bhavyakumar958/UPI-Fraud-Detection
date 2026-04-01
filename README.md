@@ -155,6 +155,8 @@ Located in `sql/fraud_analytics.sql` — designed to run on top of `scored_trans
 ---
 
 ## 📈 Dashboard KPIs
+## Dashboard Preview
+![UPI Fraud Risk Dashboard](assets/dashboard_screenshot.png)
 
 The interactive HTML dashboard (`dashboard/fraud_dashboard.html`) replicates a Power BI analyst view:
 
